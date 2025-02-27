@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Behrooz</h1>
-<h3 align="center">A passionate backend and software developer from Unitd kingdom</h3>
+<h3 align="center">A passionate backend and software developer from United kingdom</h3>
 
 <img align="right" alt="sheikh python" width = "400" src ="https://miro.medium.com/v2/resize:fit:1400/1*LKx4KERu8OkRFySU6KpI4w.gif">
 
