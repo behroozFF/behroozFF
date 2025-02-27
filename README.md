@@ -1,8 +1,13 @@
 ![logo](https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg)
+
+
+
 <h1 align="center">Hi 👋, I'm Behrooz</h1>
 <h3 align="center">A passionate backend and software developer from Unitd kingdom</h3>
 
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="sheikh python" width = "400" src ="https://miro.medium.com/v2/resize:fit:1400/1*LKx4KERu8OkRFySU6KpI4w.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-python&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-python" /> </p>
 
