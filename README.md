@@ -67,6 +67,15 @@ class Shahriaarrr(Human):
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-python&" alt="sheikh-python" /></p>
 
 
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shahriaarrr&theme=gotham" />
+  </a>
+</p>
+
+
+
 ## 🚀 My Skills
 <p align="center">
 
