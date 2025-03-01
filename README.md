@@ -2,6 +2,37 @@
 
 
 
+from Universe.Earth import Human
+
+class Shahriaarrr(Human):
+    full_name = "Shahriar Ghasempour"
+    age = 22
+    education = "BS student in Computer Engineering"
+
+    programming_lang = ["python", "Go", "java", "js", "type script"]
+    frameworks = ["Django", "Django REST", "numpy", "express"]
+
+    Favorites = [
+        "computer",
+        "programming",
+        "AI",
+        "book", 
+        "writting",
+        "music produce",
+    ]
+    Learning = [
+        "Computer Engineering",
+        "Bunjs",
+        "software engineering",
+    ]
+    working_on = ["level up my skills", "Yotoo Notify", "simple fastAPI project", "simple nestjs project"]
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Behrooz</h1>
 <h3 align="center">A passionate backend and software developer from United kingdom</h3>
 
