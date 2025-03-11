@@ -1,4 +1,4 @@
-![logo](https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Behrooz</h1>
