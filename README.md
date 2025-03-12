@@ -35,21 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-python&" alt="sheikh-python" /></p>
 
 
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/shahriaarrr">
-        <img alt="shahriaarrr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shahriaarrr&hide=prs&custom_title=My%20GitHub%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26" />
-      </a>
-    </td>
-  
-  </tr>
-</table>
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shahriaarrr&theme=gotham" />
